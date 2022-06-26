@@ -17,3 +17,7 @@ git read-tree hash_number
 What is HEAD
     - Pointer to specific branch, to current checked out branch. Locally significant
 Detached HEAD - points to specific commit instead of specific branch
+
+fast forward merge- if you branch. Have new branch with changes and no new merges on master, it puts pointer on new branch
+how to merge - go on main branch. Git merge feature_branch_name
+3 way merge - main branch has other commits. Ancestor commit is last commit both branches have in common. Creates new merge commit at end of main branch that also points to end of feature branch. Then removes pointer on feature branch
