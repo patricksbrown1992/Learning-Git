@@ -13,3 +13,7 @@ git mktree - make new tree
 stores object key as hash
 hash has 2 to 160 power options
 git read-tree hash_number
+
+What is HEAD
+    - Pointer to specific branch, to current checked out branch. Locally significant
+Detached HEAD - points to specific commit instead of specific branch
