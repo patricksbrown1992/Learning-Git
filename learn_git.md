@@ -23,3 +23,5 @@ how to merge - go on main branch. Git merge feature_branch_name
 3 way merge - main branch has other commits. Ancestor commit is last commit both branches have in common. Creates new merge commit at end of main branch that also points to end of feature branch. Then removes pointer on feature branch
 
 Git fetch grabs updates from remote repo to local repo
+
+git log has tags --oneline. lg. --graph. --stat
