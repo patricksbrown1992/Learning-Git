@@ -32,3 +32,5 @@ git reset. Has options --hard, --mixed, --soft
 git revert HEAD
 
 git amend - git commit --amend -m ""
+
+git cherry-pick - want just one commit of another branch. automatically creates commit. Can do --no-commit
