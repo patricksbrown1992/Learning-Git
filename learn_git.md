@@ -26,3 +26,5 @@ Git fetch grabs updates from remote repo to local repo
 
 git log has tags --oneline. lg. --graph. --stat
 git shortlog - shows how many commits people have made
+
+git reset. Has options --hard, --mixed, --soft
