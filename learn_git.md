@@ -30,3 +30,5 @@ git shortlog - shows how many commits people have made
 git reset. Has options --hard, --mixed, --soft
 
 git revert HEAD
+
+git amend - git commit --amend -m ""
