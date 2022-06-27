@@ -34,3 +34,5 @@ git revert HEAD
 git amend - git commit --amend -m ""
 
 git cherry-pick - want just one commit of another branch. automatically creates commit. Can do --no-commit
+
+git reflog - reflog is an ordered list of the commits that HEAD has pointed to. git reflog show branch_name
